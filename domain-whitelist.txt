@@ -8,7 +8,7 @@ pubads.g.doubleclick.net           # Server iklan utama Google (YouTube).
 ad.doubleclick.net                 # Iklan Google generasi lama.
 pagead2.googlesyndication.com      # Tampilan iklan Google.
 beacons.gcp.gvt2.com               # Tracker YouTube/GCP.
-beacons.gvt2.com				   # Tracker YouTube/GCP.
+beacons.gvt2.com                   # Tracker YouTube/GCP.
 clients.l.google.com               # Komunikasi Chrome & Maps.
 firebaselogging-pa.googleapis.com  # Logging Firebase app.
 crashlyticsreports-pa.googleapis.com # Crash report Firebase.
