@@ -1,22 +1,43 @@
-# DOMAIN Whitelist 
+#YouTube & Google Group
+#Digunakan oleh layanan YouTube, Google Ads, Firebase, Crashlytics, Google Analytics, dsb.
+www.google-analytics.com           # Google Analytics utama. Tracking pengunjung banyak situs.
+www.googleadservices.com           # Konversi iklan Google.
+www.googletagmanager.com           # Komponen penting Tag Manager.
+googleads.g.doubleclick.net        # Server iklan YouTube & Google Ads.
+pubads.g.doubleclick.net           # Server iklan utama Google (YouTube).
+ad.doubleclick.net                 # Iklan Google generasi lama.
+pagead2.googlesyndication.com      # Tampilan iklan Google.
+beacons.gcp.gvt2.com               # Tracker YouTube/GCP.
+beacons.gvt2.com				   # Tracker YouTube/GCP.
+clients.l.google.com               # Komunikasi Chrome & Maps.
+firebaselogging-pa.googleapis.com  # Logging Firebase app.
+crashlyticsreports-pa.googleapis.com # Crash report Firebase.
+firebaselogging.googleapis.com     # Logging Google mobile apps.
+dns.google                         # Google DNS-over-HTTPS (DoH).
+s.youtube.com                      # Tracker statistik iklan YouTube.
 
+#TikTok Group
+#Berhubungan dengan tracking, reward, personalisasi feed, dan endpoint streaming TikTok.
+analytics.tiktok.com               # Analytics TikTok – rekomendasi feed.
+ads.tiktok.com                     # Iklan TikTok.
+mcs-va.tiktok.com                  # Endpoint streaming TikTok.
 
-www.google-analytics.com
-www.googleadservices.com
-dns.google
-analytics.tiktok.com
-mcs-va.tiktok.com
-s.youtube.com
-www.googletagmanager.com
-click.e.zoom.us
-account.co.id
-ads.tiktok.com
-beacons.gvt2.com
-googleads.g.doubleclick.net
-pubads.g.doubleclick.net
-ad.doubleclick.net
-pagead2.googlesyndication.com
-crashlyticsreports-pa.googleapis.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
-beacons.gcp.gvt2.com
+#Facebook / Meta Group.
+analytics.facebook.com             # Facebook Pixel & login tracking.
+
+#Xiaomi / MIUI
+tracking.intl.miui.com             # Statistik Xiaomi push & sistem.
+sdkconfig.ad.intl.xiaomi.com       # Konfigurasi SDK Xiaomi.
+api.ad.intl.xiaomi.com             # Rekomendasi/iklan Xiaomi.
+data.mistat.intl.xiaomi.com        # Statistik dan telemetry Xiaomi.
+
+#Microsoft
+browser.pipe.aria.microsoft.com    # Telemetry Windows/Office.
+mobile.pipe.aria.microsoft.com     # Telemetry Android/Windows Mobile.
+
+#Umum / Aplikasi Resmi Lain
+click.e.zoom.us                    # Link undangan Zoom.
+account.co.id                      # Login endpoint (umum).
+api.branch.io                      # Digunakan banyak aplikasi untuk deep linking.
+events.appsflyer.com               # SDK analitik untuk Tokopedia, Shopee, dll.
+analytics.lk.api.ditto.com         # Tracker onboarding beberapa app besar.
