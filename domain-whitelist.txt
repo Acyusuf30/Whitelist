@@ -26,10 +26,10 @@ mcs-va.tiktok.com                  # Endpoint streaming TikTok.
 analytics.facebook.com             # Facebook Pixel & login tracking.
 
 #Xiaomi / MIUI
-tracking.intl.miui.com             # Statistik Xiaomi push & sistem.
-sdkconfig.ad.intl.xiaomi.com       # Konfigurasi SDK Xiaomi.
-api.ad.intl.xiaomi.com             # Rekomendasi/iklan Xiaomi.
-data.mistat.intl.xiaomi.com        # Statistik dan telemetry Xiaomi.
+#tracking.intl.miui.com             # Statistik Xiaomi push & sistem.
+#sdkconfig.ad.intl.xiaomi.com       # Konfigurasi SDK Xiaomi.
+#api.ad.intl.xiaomi.com             # Rekomendasi/iklan Xiaomi.
+#data.mistat.intl.xiaomi.com        # Statistik dan telemetry Xiaomi.
 
 #Microsoft
 browser.pipe.aria.microsoft.com    # Telemetry Windows/Office.
