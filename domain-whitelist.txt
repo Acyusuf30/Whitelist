@@ -44,6 +44,7 @@ analytics.lk.api.ditto.com
 
 # Whitelist Domain .kemdikbud.go.id
 ukpppg.bppp.kemdikbud.go.id
+api-ukpppg.bppp.kemdikbud.go.id
 login.kemdikbud.go.id
 sso.kemdikbud.go.id
 api.kemdikbud.go.id
