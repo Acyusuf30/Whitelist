@@ -41,3 +41,16 @@ account.co.id
 api.branch.io
 events.appsflyer.com
 analytics.lk.api.ditto.com
+
+# Whitelist Domain .kemdikbud.go.id
+ukpppg.bppp.kemdikbud.go.id
+login.kemdikbud.go.id
+sso.kemdikbud.go.id
+api.kemdikbud.go.id
+cdn.kemdikbud.go.id
+ppg.kemdikbud.go.id
+pmb.kemdikbud.go.id
+gtk.kemdikbud.go.id
+admin.kemdikbud.go.id
+ptk.kemdikbud.go.id
+pd.data.kemdikbud.go.id
