@@ -55,3 +55,11 @@ gtk.kemdikbud.go.id
 admin.kemdikbud.go.id
 ptk.kemdikbud.go.id
 pd.data.kemdikbud.go.id
+
+#Domain resmi layanan hiburan / streaming
+logs.netflix.com
+mon.tiktokv.com
+v9-id.tiktokcdn.com
+
+tpc.googlesyndication.com
+app-measurement.com
