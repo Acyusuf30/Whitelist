@@ -15,6 +15,25 @@ crashlyticsreports-pa.googleapis.com
 firebaselogging.googleapis.com
 dns.google
 s.youtube.com
+ads.youtube.com
+is
+ogads-pa.googleapis.com
+csi.gstatic.com
+marketingplatform.google.com
+smartlock.google.com
+fundingchoicesmessages.google.com
+ads.google.com
+adservice.google.com
+s0-2mdn-net.l.google.com
+pagead-googlehosted.l.google.com
+video-stats.video.google.com
+ssl-google-analytics.l.google.com
+analytics.google.com
+mail-ads.google.com
+pagead.l.google.com
+partnerad.l.google.com
+www-google-analytics.l.google.com
+clientmetrics-pa.googleapis.com
 
 #TikTok Group
 #Berhubungan dengan tracking, reward, personalisasi feed, dan endpoint streaming TikTok.
