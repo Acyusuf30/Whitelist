@@ -1,11 +1,32 @@
-#YouTube & Google Group
-#Digunakan oleh layanan YouTube, Google Ads, Firebase, Crashlytics, Google Analytics, dsb.
+##############################################
+# DOMAIN WHITELIST RESMI
+# Disusun otomatis agar tidak bentrok dengan ads/malware
+##############################################
+
+# ==============================
+# YouTube / Google Group
+# ==============================
+www.youtube.com
+accounts.youtube.com
+ad.doubleclick.net
+analytics.google.com
+fonts.googleapis.com
+fonts.gstatic.com
+googleads.g.doubleclick.net
+i.ytimg.com
+rr1---sn-q4fl6nde.googlevideo.com
+www.google-analytics.com
+www.google.co.id
+www.google.com
+www.googleadservices.com
+www.gstatic.com
+yt3.ggpht.com
+# -----------------------------------------
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
-ad.doubleclick.net
 pagead2.googlesyndication.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
@@ -16,7 +37,6 @@ firebaselogging.googleapis.com
 dns.google
 s.youtube.com
 ads.youtube.com
-is
 ogads-pa.googleapis.com
 csi.gstatic.com
 marketingplatform.google.com
@@ -28,40 +48,50 @@ s0-2mdn-net.l.google.com
 pagead-googlehosted.l.google.com
 video-stats.video.google.com
 ssl-google-analytics.l.google.com
-analytics.google.com
 mail-ads.google.com
 pagead.l.google.com
 partnerad.l.google.com
 www-google-analytics.l.google.com
 clientmetrics-pa.googleapis.com
 
-#TikTok Group
-#Berhubungan dengan tracking, reward, personalisasi feed, dan endpoint streaming TikTok.
+# ==============================
+# TikTok Group
+# ==============================
 analytics.tiktok.com
 ads.tiktok.com
 mcs-va.tiktok.com
 
-#Facebook / Meta Group.
+# ==============================
+# Facebook / Meta Group
+# ==============================
 analytics.facebook.com
 
-#Xiaomi / MIUI
-#tracking.intl.miui.com             # Statistik Xiaomi push & sistem.
-#sdkconfig.ad.intl.xiaomi.com       # Konfigurasi SDK Xiaomi.
-#api.ad.intl.xiaomi.com             # Rekomendasi/iklan Xiaomi.
-#data.mistat.intl.xiaomi.com        # Statistik dan telemetry Xiaomi.
+# ==============================
+# Xiaomi / MIUI (telemetry & SDK config)
+# ==============================
+tracking.intl.miui.com
+sdkconfig.ad.intl.xiaomi.com
+api.ad.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
 
-#Microsoft
+# ==============================
+# Microsoft Group
+# ==============================
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 
-#Umum / Aplikasi Resmi Lain
+# ==============================
+# Umum / Aplikasi Resmi Lain
+# ==============================
 click.e.zoom.us
 account.co.id
 api.branch.io
 events.appsflyer.com
 analytics.lk.api.ditto.com
 
-# Whitelist Domain .kemdikbud.go.id
+# ==============================
+# Whitelist Domain Kemdikbud
+# ==============================
 ukpppg.bppp.kemdikbud.go.id
 api-ukpppg.bppp.kemdikbud.go.id
 login.kemdikbud.go.id
@@ -75,10 +105,11 @@ admin.kemdikbud.go.id
 ptk.kemdikbud.go.id
 pd.data.kemdikbud.go.id
 
-#Domain resmi layanan hiburan / streaming
+# ==============================
+# Domain Resmi Layanan Hiburan / Streaming
+# ==============================
 logs.netflix.com
 mon.tiktokv.com
 v9-id.tiktokcdn.com
-
 tpc.googlesyndication.com
 app-measurement.com
