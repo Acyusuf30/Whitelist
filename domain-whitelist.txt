@@ -25,6 +25,7 @@ yt3.ggpht.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
+googletagmanager.com
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
 pagead2.googlesyndication.com
