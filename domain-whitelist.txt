@@ -21,12 +21,8 @@ www.google.com
 www.googleadservices.com
 www.gstatic.com
 yt3.ggpht.com
-# -----------------------------------------
-www.google-analytics.com
-www.googleadservices.com
 www.googletagmanager.com
 googletagmanager.com
-googleads.g.doubleclick.net
 pubads.g.doubleclick.net
 pagead2.googlesyndication.com
 beacons.gcp.gvt2.com
@@ -60,6 +56,9 @@ clientmetrics-pa.googleapis.com
 # ==============================
 analytics.tiktok.com
 ads.tiktok.com
+ads-api.tiktok.com
+ads-sg.tiktok.com
+analytics-sg.tiktok.com
 mcs-va.tiktok.com
 p16-webcast.tiktokcdn.com
 p19-webcast.tiktokcdn.com
@@ -77,6 +76,7 @@ api-h2.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 webcast22-ws-alisg.tiktokv.com
 mon-va.tiktokv.com
+mon.tiktokv.com
 
 # ==============================
 # Facebook / Meta Group
@@ -126,7 +126,5 @@ pd.data.kemdikbud.go.id
 # Domain Resmi Layanan Hiburan / Streaming
 # ==============================
 logs.netflix.com
-mon.tiktokv.com
-v9-id.tiktokcdn.com
 tpc.googlesyndication.com
 app-measurement.com
