@@ -10,17 +10,13 @@ www.youtube.com
 accounts.youtube.com
 ad.doubleclick.net
 analytics.google.com
-fonts.googleapis.com
-fonts.gstatic.com
 googleads.g.doubleclick.net
 i.ytimg.com
-rr1---sn-q4fl6nde.googlevideo.com
 www.google-analytics.com
 www.google.co.id
 www.google.com
 www.googleadservices.com
 www.gstatic.com
-yt3.ggpht.com
 www.googletagmanager.com
 googletagmanager.com
 pubads.g.doubleclick.net
@@ -105,22 +101,6 @@ account.co.id
 api.branch.io
 events.appsflyer.com
 analytics.lk.api.ditto.com
-
-# ==============================
-# Whitelist Domain Kemdikbud
-# ==============================
-ukpppg.bppp.kemdikbud.go.id
-api-ukpppg.bppp.kemdikbud.go.id
-login.kemdikbud.go.id
-sso.kemdikbud.go.id
-api.kemdikbud.go.id
-cdn.kemdikbud.go.id
-ppg.kemdikbud.go.id
-pmb.kemdikbud.go.id
-gtk.kemdikbud.go.id
-admin.kemdikbud.go.id
-ptk.kemdikbud.go.id
-pd.data.kemdikbud.go.id
 
 # ==============================
 # Domain Resmi Layanan Hiburan / Streaming
