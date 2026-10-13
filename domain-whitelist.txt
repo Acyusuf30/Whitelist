@@ -30,6 +30,7 @@ firebaselogging.googleapis.com
 dns.google
 s.youtube.com
 ads.youtube.com
+youtube.com
 ogads-pa.googleapis.com
 csi.gstatic.com
 marketingplatform.google.com
@@ -56,6 +57,8 @@ ads-api.tiktok.com
 ads-sg.tiktok.com
 analytics-sg.tiktok.com
 mcs-va.tiktok.com
+mcs-va.tiktokv.com
+log-va.tiktokv.com
 p16-webcast.tiktokcdn.com
 p19-webcast.tiktokcdn.com
 pull-f5-sg01.tiktokcdn.com
@@ -78,6 +81,8 @@ mon.tiktokv.com
 # Facebook / Meta Group
 # ==============================
 analytics.facebook.com
+an.facebook.com
+pixel.facebook.com
 
 # ==============================
 # Xiaomi / MIUI (telemetry & SDK config)
