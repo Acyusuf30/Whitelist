@@ -46,6 +46,8 @@ mail-ads.google.com
 pagead.l.google.com
 partnerad.l.google.com
 www-google-analytics.l.google.com
+www.doubleclickbygoogle.com
+video-stats.video.google.com
 clientmetrics-pa.googleapis.com
 
 # ==============================
@@ -87,10 +89,7 @@ pixel.facebook.com
 # ==============================
 # Xiaomi / MIUI (telemetry & SDK config)
 # ==============================
-tracking.intl.miui.com
-sdkconfig.ad.intl.xiaomi.com
-api.ad.intl.xiaomi.com
-data.mistat.intl.xiaomi.com
+
 
 # ==============================
 # Microsoft Group
