@@ -18,6 +18,8 @@ www.google.com
 www.googleadservices.com
 www.gstatic.com
 www.googletagmanager.com
+www.googletagservices.com
+static.doubleclick.net
 googletagmanager.com
 pubads.g.doubleclick.net
 pagead2.googlesyndication.com
